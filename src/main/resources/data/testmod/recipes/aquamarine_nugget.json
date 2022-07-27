@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "testmod:aquamarine_ingot"
+    }
+  ],
+  "result": {
+    "item": "testmod:aquamarine_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:aquamarine_block",
+    "testmod:aquamarine_ore",
+    "testmod:deepslate_aquamarine_ore"
+  ]
+}
