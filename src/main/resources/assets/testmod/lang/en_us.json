@@ -11,6 +11,7 @@
   "block.testmod.deepslate_aquamarine_ore": "Deepslate Aquamarine Ore",
 
   "item.testmod.die": "Die",
-  "item.testmod.die_base": "Die Base"
+  "item.testmod.die_base": "Die Base",
+  "block.testmod.speed_block": "Speed Block"
 
 }
