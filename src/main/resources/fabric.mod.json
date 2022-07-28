@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.sziad.testmod.TestMod"
+    ],
+    "client": [
+      "net.sziad.testmod.TestModClient"
     ]
   },
   "mixins": [

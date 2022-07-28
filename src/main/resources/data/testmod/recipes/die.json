@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OWO",
+    "W#W",
+    "OWO"
+  ],
+  "key": {
+    "#": {
+      "item": "testmod:die_base"
+    },
+    "W": {
+      "item": "minecraft:white_dye"
+    },
+    "O": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "item": "testmod:die"
+  }
+}

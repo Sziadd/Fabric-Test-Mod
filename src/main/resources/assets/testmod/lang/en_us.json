@@ -3,6 +3,14 @@
   "item.testmod.aquamarine_nugget": "Aquamarine Nugget",
   "item.testmod.raw_aquamarine": "Raw Aquamarine",
 
+  "itemGroup.testmod.aquamarine": "Aqumarine",
 
-  "block.testmod.aquamarine_block": "Aquamarine Block"
+
+  "block.testmod.aquamarine_block": "Aquamarine Block",
+  "block.testmod.aquamarine_ore": "Aquamarine Ore",
+  "block.testmod.deepslate_aquamarine_ore": "Deepslate Aquamarine Ore",
+
+  "item.testmod.die": "Die",
+  "item.testmod.die_base": "Die Base"
+
 }
